@@ -1,0 +1,9 @@
+1. E → E + T
+2. E → E - T
+3. E → T
+4. T → T * F
+5. T → T / F
+6. T → F
+7. F → ( E )
+8. F → id
+9. F → num
